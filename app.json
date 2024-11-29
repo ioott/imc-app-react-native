@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bitcoin-quote-app",
-    "slug": "bitcoin-quote-app",
+    "name": "imc-app",
+    "slug": "imc-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
